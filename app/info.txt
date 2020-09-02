@@ -1,0 +1,1 @@
+To continue the tutorial start docker.getting-started container and visit http://localhost/tutorial/using-bind-mounts/
